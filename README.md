@@ -5,7 +5,7 @@ Online very soon.
 
 // BRIEFING
 
-This project is a demo landing page, built with ReactJS and TailwindCSS.
+This project is a demo landing page, built with ViteJS, ReactJS and TailwindCSS.
 
 The focus of the project is to practice the React framework, and explore components and reusability.
 
